@@ -1,0 +1,7 @@
+Ejecutar aplicación servidor:
+En terminal de comandos escribir el comando java -jar Server.jar dirección_ip_del_computador-anfitrión
+Ejemplo: java -jar Server.jar 192.168.0.1
+
+Ejecutar aplicación cliente:
+En terminal de comandos escribir el comando java -jar Client.jar dirección_ip_del_servidor
+Ejemplo: java -jar Client.jar 192.168.0.1
